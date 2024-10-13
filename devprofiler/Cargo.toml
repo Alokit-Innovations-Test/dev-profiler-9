@@ -2,6 +2,7 @@
 name = "devprofiler"
 version = "0.2.3"
 edition = "2021"
+
 authors = ["Tapish Rathore <tapish@vibinex.com>"]
 license = "GPL-3.0-or-later"
 serde_json = "1.0"
